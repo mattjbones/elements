@@ -1,0 +1,11 @@
+body {
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+div li {
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
